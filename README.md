@@ -65,13 +65,10 @@
 
 ## 🐍 Contribution Snake
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KrishnaT-1608/KrishnaT-1608/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KrishnaT-1608/KrishnaT-1608/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/KrishnaT-1608/KrishnaT-1608/output/github-snake.svg" />
-  </picture>
-</div>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KrishnaT-1608&show_icons=true&theme=github_light&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnaT-1608&layout=compact&theme=github_light" />
+</p>
 
 ---
 
